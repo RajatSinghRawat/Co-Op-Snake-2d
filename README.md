@@ -9,3 +9,7 @@ The Co-Op Snake 2d is a simple 2d game in which two players compete with each ot
 5) Food will automatically get destroyed after some time if not eaten
 6) Mass Gainer Food will increase the score
 7) Mass Burner Food will decrease the score
+
+
+https://github.com/RajatSinghRawat/Co-Op-Snake-2d/assets/43318785/e60e38a9-1d57-45d4-a574-0a93bd0028b4
+
